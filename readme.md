@@ -10,7 +10,7 @@ Instagram uploader can upload photos/videos to any account that is configured.
 You can install this package with pip:
 
 ```
-pip install git+https://gitlab.com/Julioocz/instagram_uploader
+pip install git+https://gitlab.com/zoran759/instagram_uploader
 ```
 
 ## Usage
